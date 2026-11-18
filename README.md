@@ -1,3 +1,7 @@
+## Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [How to Create New Repository?](#how-to-create-new-repository)
 A brief introduction of yourself.
 Your skills, such as data analysis, SQL, Python, Tableau, web development, etc.
 Advanced features like visitor counts, clickable icons, etc. (Note: you may need to do some research to learn how to implement these features)
