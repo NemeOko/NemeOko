@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is Neme and I'm an engineering student, from the University of Manchester. Interested in data-driven modelling and digital technology for energy and infrastructure. Explore my university and personal projects. Hoping to work with you.</p>
 
 ###
 
@@ -10,31 +10,24 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning General data analysis, Machine Learning, SQL and programming a micro controller <br>🎯 Goals: Well versed in all things automation to support Engineering degree<br>🎲 Fun fact: 21 year old that loves embroidery</p>
+
+
+###
+
+<h2 data-importer="text" align="left">Projects</h2>
+
+###
+
+<p data-importer="text" align="left"> Simulating a chaotic, magnetically tuned piezoelectric energy harvester for ultra-low-frequency vibrations (MATLAB) </p>
 
 ###
 
 <h2 data-importer="text" align="left">I code with</h2>
 
 ###
+<p data-importer="text" align="left"> Python (NumPy, pandas, Matplotlib) <br> Matlab <br> SQL (Learning) <br> C# (Learning) </p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
-![portfolio profile photo high res](portfolio%20profile%20photo%20high%20res.jpg)
